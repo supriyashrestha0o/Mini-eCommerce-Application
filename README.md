@@ -1,8 +1,7 @@
 # MyShop - Mini E-Commerce App
 
-**Student Name:** Supriya Shrestha  
-**Student ID:** 2510412182  
-**Course:** Mobile Application Development - Flutter
+**Student Name:** Supriya Shrestha   
+**Mobile Application Development - Flutter**
 
 ## About the project
 
