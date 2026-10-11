@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class AppColors {
   static const Color primary = Color(0xFF5B3FD9);
-  static const Color background = Color(0xFFF6F6FB);
+  static const Color background = Color(0xFFFFF1DF);
   static const Color sale = Color(0xFFE53935);
   static const Color star = Color(0xFFFFB300);
   static const Color textSecondary = Color(0xFF6B6B7B);
@@ -24,7 +24,7 @@ class AppTheme {
     colorScheme: ColorScheme.fromSeed(seedColor: AppColors.primary),
     scaffoldBackgroundColor: AppColors.background,
     appBarTheme: const AppBarTheme(
-      backgroundColor: Colors.white,
+      backgroundColor: Color(0xFFFFF1DF),
       foregroundColor: Colors.black87,
       elevation: 0,
       scrolledUnderElevation: 1,
